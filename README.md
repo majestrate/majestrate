@@ -3,9 +3,8 @@
 
 User may contain the following traits known by The State of California to cause cancer:
 
-* Strong Opinions
+* Strong Principalled Opinions
 * Anime Avatar
-* Debian Linux User for well over a decade
+* Decade long Linux user, debian stable.
 
-
-:eye: :lips: :eye:
+:eye: :lips: :eye: get off my lawn kid.
