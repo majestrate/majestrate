@@ -3,12 +3,12 @@
 
 :eye: :lips: :eye: 
 
-User may contain the following traits known by The State of California to cause cancer:
+This User may contain the following traits known by The State of California to cause cancer:
 
-* Emacs User
 * Anime Avatar
-* Decade long Linux user, debian stable
-* Will read your code
+* Emacs User
+* Code Reviewer
+* Decade long Linux user (debian stable 4 life)
 
 
 ONS: maybe
