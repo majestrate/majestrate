@@ -14,7 +14,7 @@
 - [ ] platform dependant bits
 - [ ] split up lokinet-amalgum
 
-** [[https://github.com/oxen-i/oxen-core][oxen-core]]
+** [[https://github.com/oxen-io/oxen-core][oxen-core]]
 
 - [ ] p2p layer replacement
 - [ ] legacy tx parser
