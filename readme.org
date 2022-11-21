@@ -15,4 +15,4 @@ This User may contain the following traits known by The State of California to c
 
 session ONS: workaholic
 
-[[https://github.com/majestrate/majestrate/blob/master/github.org][tasks]]
+[[https://github.com/majestrate/majestrate/blob/master/org/github.org][tasks]]
