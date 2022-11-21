@@ -1,0 +1,25 @@
+#+title: github task list
+#+author: jeff
+
+** workflow
+
+1. code review in PRs
+2. bug triage
+3. team sync
+
+** [[https://github.com/oxen-io/lokinet][lokinet]]
+
+- [ ] rpc server
+- [ ] service endpoint (hs flow layer)
+- [ ] platform dependant bits
+- [ ] split up lokinet-amalgum
+
+** [[https://github.com/oxen-i/oxen-core][oxen-core]]
+
+- [ ] p2p layer replacement
+- [ ] legacy tx parser
+- [ ] db migration tool
+
+** [[https://github.com/oxen-io/session-pysogs][pysogs]]
+
+- [ ] zmq bot api

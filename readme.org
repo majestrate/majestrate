@@ -1,0 +1,39 @@
+#+title: majestrate's github
+#+author: jeff
+
+:warning: C++ addict :warning:
+
+:eye: :lips: :eye: 
+
+This User may contain the following traits known by The State of California to cause cancer:
+
+- Anime Avatar
+- Emacs User
+- Code Reviewer
+- Decade long Linux user (debian stable 4 life)
+
+
+session ONS: workaholic
+
+** workflow
+
+1. code review in PRs
+2. bug triage
+3. team sync
+
+** [[https://github.com/oxen-io/lokinet][lokinet]]
+
+- [ ] rpc server
+- [ ] service endpoint (hs flow layer)
+- [ ] platform dependant bits
+- [ ] split up lokinet-amalgum
+
+** [[https://github.com/oxen-i/oxen-core][oxen-core]]
+
+- [ ] p2p layer replacement
+- [ ] legacy tx parser
+- [ ] db migration tool
+
+** [[https://github.com/oxen-io/session-pysogs][pysogs]]
+
+- [ ] zmq bot api
