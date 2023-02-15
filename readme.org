@@ -1,9 +1,8 @@
-#+title: majestrate's github
+#+title: :eye: :lips: :eye: 
 #+author: jeff
 
 :warning: C++ addict :warning:
 
-:eye: :lips: :eye: 
 
 This User may contain the following traits known by The State of California to cause cancer:
 
