@@ -1,7 +1,8 @@
-#+title: :eye: :lips: :eye: 
-#+author: jeff
+# :eye: :lips: :eye: 
 
-:warning: C++ addict :warning:
+this is a github profile for an irrelevent internet rando.
+
+# :warning: C++ addict :warning:
 
 
 This User may contain the following traits known by The State of California to cause cancer:
