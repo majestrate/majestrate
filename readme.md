@@ -10,7 +10,7 @@ This User may contain the following traits known by The State of California to c
 - Anime Avatar
 - Emacs User
 - Code Reviewer
-- Decade long Linux user (debian stable 4 life)
+- 15+ years long Linux user (debian stable 4 life)
 
 
 session ONS: workaholic
