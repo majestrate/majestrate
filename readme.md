@@ -1,14 +1,10 @@
-# :eye: :lips: :eye: 
 
-this is a github profile for an irrelevent internet rando.
+don't mind me.
 
-# :warning: C++ addict :warning:
+- c++ addict, go nut, python pal
+- emacs hermit
+- 15+ years long linux daily driver (i like debian)
+- code style connoisseur
 
-
-This User may contain the following traits known by The State of California to cause cancer:
-
-- Anime Avatar
-- Emacs User
-- Code Reviewer
-- 15+ years long Linux user (debian stable 4 life)
+This User has tastes in anime shows known to the State of California to cause cancer and birth defects or other reproductive harm.
 
