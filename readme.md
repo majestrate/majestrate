@@ -1,5 +1,4 @@
-
-don't mind me.
+codeaholic here, don't mind me.
 
 - c++ addict, go nut, python pal
 - emacs hermit
