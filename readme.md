@@ -6,4 +6,4 @@ codeaholic here, don't mind me.
 - code style connoisseur
 
 
-https://ko-fi.com/majestrate
+[ko fi](https://ko-fi.com/majestrate)
