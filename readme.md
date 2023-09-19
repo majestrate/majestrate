@@ -4,3 +4,6 @@ codeaholic here, don't mind me.
 - emacs hermit
 - 15+ years long linux daily driver (i like debian)
 - code style connoisseur
+
+
+https://ko-fi.com/majestrate
