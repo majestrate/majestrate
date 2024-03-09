@@ -1,4 +1,4 @@
-codeaholic here, don't mind me.
+
 
 - c++ addict, go nut, python pal
 - sometimes wonders why he didn't learn elixir sooner
